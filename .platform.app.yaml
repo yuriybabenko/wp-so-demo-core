@@ -11,7 +11,7 @@ web:
             passthru: "/index.php"
             index:
                 - "index.php"
-            expires: 600
+            expires: 700
             scripts: true
             allow: true
             rules:
