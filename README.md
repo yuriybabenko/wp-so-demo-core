@@ -1,4 +1,4 @@
-# WordPress for Platform.sh - updated
+# WordPress for Platform.sh - updated 
 
 <p align="center">
 <a href="https://console.platform.sh/projects/create-project?template=https://raw.githubusercontent.com/platformsh/template-builder/master/templates/wordpress/.platform.template.yaml&utm_content=wordpress&utm_source=github&utm_medium=button&utm_campaign=deploy_on_platform">
