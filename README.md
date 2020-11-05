@@ -1,7 +1,7 @@
 # WordPress for Platform.sh - updated 
 
 <p align="center">
-<a href="https://console.platform.sh/projects/create-project?template=https://raw.githubusercontent.com/platformsh/template-builder/master/templates/wordpress/.platform.template.yaml&utm_content=wordpress&utm_source=github&utm_medium=button&utm_campaign=deploy_on_platform">
+<a href="https://console.platform.sh/projects/create-project?template=https://github.com/yuriybabenko/wp-so-demo-core.git&utm_content=yuriybabenko_wordpress&utm_source=github&utm_medium=button&utm_campaign=deploy_on_platform">
     <img src="https://platform.sh/images/deploy/lg-blue.svg" alt="Deploy on Platform.sh" width="180px" />
 </a>
 </p>
